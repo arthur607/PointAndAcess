@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import javax.persistence.Embeddable;
 import javax.persistence.Embedded;
 import javax.persistence.EmbeddedId;
+import javax.persistence.Entity;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

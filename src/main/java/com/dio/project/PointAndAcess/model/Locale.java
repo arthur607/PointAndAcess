@@ -3,6 +3,7 @@ package com.dio.project.PointAndAcess.model;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import javax.persistence.Entity;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 
